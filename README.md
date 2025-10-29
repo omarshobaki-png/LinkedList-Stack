@@ -75,11 +75,6 @@ a file named Report.txt will be created containing all categorized task lists (u
 ## Purpose
 This project was developed as part of the COMP2421 – Data Structures course to demonstrate practical understanding of linked lists, stacks, and file handling in C.
 
-## Future Improvements
-- Allow saving tasks automatically after each operation  
-- Support editing existing tasks  
-- Sort tasks by date or duration  
-- Add colorized output for better readability  
 
 Author: Omar Shoubaki  
 Birzeit University  
