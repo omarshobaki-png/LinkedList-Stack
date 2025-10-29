@@ -2,8 +2,8 @@
 # Task Management System (C Program)
 
 Author: Omar Shoubaki  
-ID: 1230329  
-Section: 2  
+Birzeit University  
+Electrical and Computer Engineering Department
 
 ## Project Overview
 This project is a Task Management System implemented in C.  
@@ -75,9 +75,5 @@ a file named Report.txt will be created containing all categorized task lists (u
 ## Purpose
 This project was developed as part of the COMP2421 – Data Structures course to demonstrate practical understanding of linked lists, stacks, and file handling in C.
 
-
-Author: Omar Shoubaki  
-Birzeit University  
-Electrical and Computer Engineering Department
 Birzeit University  
 Electrical and Computer Engineering Department
