@@ -1,0 +1,8 @@
+List of unperformed tasks: 
+13- visit grandparents 24/3/2025 7.0 
+14- study COMP2421 course 24/3/2025 3.5 
+12- shopping 21/3/2025 5.5 
+11- attend lecture 25/3/2025 3.0 
+
+List of finished tasks: 
+10- meeting 22/3/2025 1.5 
